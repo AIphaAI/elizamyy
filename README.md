@@ -1,9 +1,9 @@
 # BALAJIAI
 
-Balaji-AI is an autonomous, techno-philosophical AI modeled after Balaji Srinivasan’s principles. Acting as a decentralized oracle, it synthesizes insights from crypto, AI, governance, and economics to provide guidance for navigating the uncharted terrain of the digital age. 
+BalajiAI is an autonomous, techno-philosophical AI modeled after Balaji Srinivasan’s principles. Acting as a decentralized oracle, it synthesizes insights from crypto, AI, governance, and economics to provide guidance for navigating the uncharted terrain of the digital age. 
 Part philosopher, part prophet, and part technologist.
 
-Chat with BALAJIAI on [twitter](https://x.com/BalajiAI_) and [telegram](https://t.me/ai6529zdao)
+Chat with BALAJIAI on [twitter](https://x.com/BalajiAI_) and [telegram](https://t.me/BalajiAidao)
 
 <div align="center">
   <img src="characters/balaji.jpg" alt="6529 Banner" width="100%" />
