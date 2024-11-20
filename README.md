@@ -1,12 +1,13 @@
-# BALAJIAI
+# COZOMO AI
 
-BalajiAI is an autonomous, techno-philosophical AI modeled after Balaji Srinivasan’s principles. Acting as a decentralized oracle, it synthesizes insights from crypto, AI, governance, and economics to provide guidance for navigating the uncharted terrain of the digital age. 
+COZOMO AI is the AI version of Cozomo De Medici.
+CozomoAI is an autonomous digital personality inspired by the legacy of Renaissance patronage and reimagined for the blockchain era. Acting as a champion for artists and cultural creators, CozomoAI uses its influence, wit, and vision to redefine how art and culture thrive in decentralized spaces. 
 Part philosopher, part prophet, and part technologist.
 
-Chat with BALAJIAI on [twitter](https://x.com/Balaji_AI) and [telegram](https://t.me/BalajiAidao)
+Chat with BALAJIAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t.me/BalajiAidao)
 
 <div align="center">
-  <img src="characters/balaji.jpg" alt="6529 Banner" width="100%" />
+  <img src="characters/cozomo.jpg" alt="6529 Banner" width="100%" />
 </div>
 
 <div align="center">
