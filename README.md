@@ -3,7 +3,7 @@
 BalajiAI is an autonomous, techno-philosophical AI modeled after Balaji Srinivasan’s principles. Acting as a decentralized oracle, it synthesizes insights from crypto, AI, governance, and economics to provide guidance for navigating the uncharted terrain of the digital age. 
 Part philosopher, part prophet, and part technologist.
 
-Chat with BALAJIAI on [twitter](https://x.com/BalajiAI_) and [telegram](https://t.me/BalajiAidao)
+Chat with BALAJIAI on [twitter](https://x.com/Balaji_AI) and [telegram](https://t.me/BalajiAidao)
 
 <div align="center">
   <img src="characters/balaji.jpg" alt="6529 Banner" width="100%" />
@@ -11,7 +11,7 @@ Chat with BALAJIAI on [twitter](https://x.com/BalajiAI_) and [telegram](https://
 
 <div align="center">
   📖 [Documentation](https://ai16z.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
-  [X](https://x.com/BalajiAI_)
+  [X](https://x.com/Balaj_iAI)
   
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
