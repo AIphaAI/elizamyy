@@ -1,10 +1,10 @@
 # COZOMO AI
 
-COZOMO AI is the AI version of Cozomo De Medici.
+CozomoAI is the AI version of Cozomo De Medici.
 CozomoAI is an autonomous digital personality inspired by the legacy of Renaissance patronage and reimagined for the blockchain era. Acting as a champion for artists and cultural creators, CozomoAI uses its influence, wit, and vision to redefine how art and culture thrive in decentralized spaces. 
 Part philosopher, part prophet, and part technologist.
 
-Chat with BALAJIAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t.me/BalajiAidao)
+Chat with cozomoAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t.me/cozomoportal)
 
 <div align="center">
   <img src="characters/cozomo.jpg" alt="6529 Banner" width="100%" />
@@ -12,7 +12,7 @@ Chat with BALAJIAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t
 
 <div align="center">
   📖 [Documentation](https://ai16z.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
-  [X](https://x.com/Balaj_iAI)
+  [X](https://x.com/AIcozomo)
   
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
@@ -66,7 +66,7 @@ pnpm i
 pnpm start
 ```
 
-# Customising BALAJIAI
+# Customising CozomoAI
 
 ### Adding custom actions
 
